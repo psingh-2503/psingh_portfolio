@@ -1,6 +1,12 @@
 title: Minimal theme
 logo: /assets/img/psingh.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/psingh1989/">LinkedIn</a> |
+  <a href="https://github.com/psingh-2503">GitHub</a>
+  
+  <br>   
+  I'm currently pursuing AI/ML course from upGrad, also working as QA Automation architect with having around 12+ years of experience.
+  <br>
+  </p>
